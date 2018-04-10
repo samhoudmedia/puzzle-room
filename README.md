@@ -1,5 +1,5 @@
 # Manual Puzzle Prototypes
->📔 📔 Prototypes for the Room puzzle. 
+>📔 Prototypes for the Room puzzle. 
 
 ## 📖 Introduction
 Trying out multiple directions and versions for the room puzzle to see which onne is the best fit. They all have the same puzzle base but with slightly different forms of interaction.
